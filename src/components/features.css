@@ -1,0 +1,17 @@
+.features {
+  display: flex;
+  gap: 30px;
+  padding: 60px 0;
+}
+
+.features div {
+  background: #142821;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .features {
+    flex-direction: column;
+  }
+}
