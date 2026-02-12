@@ -1,7 +1,7 @@
 import "./prod.css";
 import plant1 from "../assets/plant.jpg";
 import plant2 from "../assets/pl2.jpg";
-import plant3 from "../assets/pl3.jpg";
+import plant3 from "../assets/palm.jpg";
 
 const plants = [
   { id: 1, name: "Aloe Vera", price: "Rs 259/-", img: plant1 },
